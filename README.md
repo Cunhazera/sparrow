@@ -1,32 +1,8 @@
 # sparrow
 
-FIXME: description
+Simple Clojure project to let the app now your current browser
 
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-    $ java -jar sparrow-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Challenge by @demisrosseti
 
 ## License
 
