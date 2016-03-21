@@ -2,7 +2,7 @@
 
 Simple Clojure project to let the app know your current browser
 
-Challenge by @demisrosseti
+Challenge by [@demisrosseti](https://github.com/demisrosseti)
 
 ## License
 
