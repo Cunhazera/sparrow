@@ -1,6 +1,6 @@
 # sparrow
 
-Simple Clojure project to let the app now your current browser
+Simple Clojure project to let the app know your current browser
 
 Challenge by @demisrosseti
 
